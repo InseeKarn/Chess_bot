@@ -1,0 +1,6 @@
+tensorflow
+numpy
+python-chess
+pygame
+tqdm
+pygame
